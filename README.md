@@ -1,12 +1,72 @@
-# React + Vite
+# 🚌 SmartBus - Bus Ticket Booking System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SmartBus** is a modern and responsive bus ticket booking web application built with React and Vite.  
+It provides a clean UI, smooth navigation, and essential features like bus listing, seat selection, ticket booking, and payment handling.
 
-Currently, two official plugins are available:
+------------------------------------------------------------------------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
 
-## Expanding the ESLint configuration
+- [Features](#features)
+- [Technologies](#technologies)
+- [Demo](#demo)
+- [Author](#author)
+- [License](#license)
+- [Support](#support)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+------------------------------------------------------------------------
+
+## Features
+
+- Responsive design for mobile and desktop
+- Bus listing with search and filter by name, route, or type
+- Display bus details including timings, fare, seats, stops, and contact info
+- Seat selection and ticket booking functionality
+- Payment methods selection (Credit/Debit Card, E-Wallet, Cash on Arrival)
+- Customer name and ticket quantity input
+- Interactive and modern UI with animations
+- Footer with social media links and contact info
+- Error / 404 page for invalid routes
+
+------------------------------------------------------------------------
+
+## Technologies
+
+- Frontend: React, React Router DOM  
+- Styling: Tailwind CSS  
+- Icons: Lucide React, React Icons  
+- Animations: Framer Motion  
+- Build Tool: Vite  
+- JavaScript: ES6+  
+
+------------------------------------------------------------------------
+
+## Demo
+
+[🌐 Demo Link](http://smart-bus-byumar.netlify.app)
+
+------------------------------------------------------------------------
+
+### Author
+
+Muhammad Umar Hassan  
+Frontend Developer | React Enthusiast | UI/UX Lover  
+
+📸 Instagram: [@m_umar_hassan](https://www.instagram.com/m_umar_hassan)  
+💼 LinkedIn: [M. Umarh](https://www.linkedin.com/in/m-umarh)  
+📘 Facebook: [Muhammad Umar Hassan](https://www.facebook.com/muhammadumar.hassan.581)  
+
+------------------------------------------------------------------------
+
+### License
+
+This project is licensed under the MIT License.  
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, under the following conditions:  
+- Include the original copyright and license notice in all copies or substantial portions of the software.
+
+------------------------------------------------------------------------
+
+### Support
+
+For any issues, suggestions, or collaborations, you can reach out to Muhammad Umar Hassan via the social media links above.  
+Feel free to open issues on GitHub or contact directly via email or social media.
